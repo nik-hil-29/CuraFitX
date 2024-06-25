@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-groq
+langchain-core
+gpt4all
+langgraph
+chromadb
+sentence-transformers
+tavily-python
+gradio

@@ -13,3 +13,4 @@ Stack Used:
 - Llama 3 70B from Groq
 - Langchain and LangGraph
 - Gradio
+You can checkout this in my running space on Hugging Face Here : https://huggingface.co/spaces/nikhil2902/CuraFitX
